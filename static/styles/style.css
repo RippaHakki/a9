@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+}
+.ultra-photos>div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.photo>img {
+  width: 700px;
+}
+.photo2>img {
+width: 400px  ;
+}
+.ultra-photos>p {
+  color: white;
+  text-align: center;
+  font-size: 28px;
+}
+.text2>p {
+  text-align: center;
+  color: white;
+  font-size: 46px;
+}
+.correct{
+  display: flex;
+  justify-content: center;
+}
+.ultra-text {
+  width: 88%;
+  color: white;
+  font-size: 38px;
+}
+.tttext {
+  display: block;
+  text-align: center;
+}
